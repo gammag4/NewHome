@@ -6,7 +6,7 @@ Aplicativo para adoção de animais.
 
 Equipe:
 
-- Gabriel Maia Gondim ([gabrielmaia2](https://github.com/gabrielmaia2/)).
+- Gabriel Maia Gondim ([gabrielmaia2](https://github.com/gammag4/)).
 
 Links:
 
